@@ -2,10 +2,6 @@
 **Multilingual, Aspect-Based Sentiment Analysis and Visual Sentiment Scores for Hotel Reviews**
 
 **Author:** Sude Ebrar Çat  
-**Advisor:** Tuğba Önal Süzek, PhD  
-**Department of Computer Engineering, Muğla Sıtkı Koçman University**  
-**Date:** 05/07/2025  
-
 ---
 
 ## 🌍 Project Overview
